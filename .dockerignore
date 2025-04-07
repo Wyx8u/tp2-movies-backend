@@ -37,3 +37,14 @@ build/
 
 # Maven wrapper files ##
 .mvn
+mvnm
+mvnm.cmd
+README.md
+
+
+## Github repo ##
+.gitignore
+.gitattributes
+
+## Mongo Seed ##
+mongo-seed
