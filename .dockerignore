@@ -35,6 +35,7 @@ build/
 ### ENV Files ###
 .env
 
+<<<<<<< HEAD
 ## Maven wrapper files ##
 .mvn
 mvnw
@@ -46,4 +47,18 @@ README.md
 .gitattributes
 
 ## Mongo seed script ##
+=======
+# Maven wrapper files ##
+.mvn
+mvnm
+mvnm.cmd
+README.md
+
+
+## Github repo ##
+.gitignore
+.gitattributes
+
+## Mongo Seed ##
+>>>>>>> 13137c88915ed9ea029b4249f7f7e6d690590066
 mongo-seed
